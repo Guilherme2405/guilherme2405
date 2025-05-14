@@ -2,6 +2,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2405&show_icons=true&theme=tokyonight" width="400" height="250" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2405&layout=compact&theme=tokyonight" width="305" height="250" alt="Top Langs"/>
+  <br>
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 
@@ -19,13 +25,9 @@
 ## 📈 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Guilherme2405/Guilherme2405/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2405&theme=tokyonight&locale=pt_BR" width="820" height="250" alt="GitHub Streak"/>
 </div>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## 🌐 Redes Sociais
 
