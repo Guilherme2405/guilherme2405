@@ -1,4 +1,9 @@
 # Olá, eu sou o Guilherme Cataneo!
+<div>
+  Me chamo Guilherme, tenho 23 anos e estou cursando Desenvolvimento de Sistemas (curso técnico). Sou apaixonado por tecnologia desde cedo. Cresci rodeado por jogos, redes sociais e sempre tive curiosidade em entender como tudo funciona por trás das telas.<br>
+  Atualmente, estou estudando e trabalhando com as stacks JavaScript, TypeScript, React, Node.js, C#, Flutter e .NET, buscando evoluir cada vez mais como desenvolvedor Full Stack.
+</div>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2405&show_icons=true&theme=tokyonight" width="400" height="250" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2405&layout=compact&theme=tokyonight" width="305" height="250" alt="Top Langs"/>
