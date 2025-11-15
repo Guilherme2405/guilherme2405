@@ -3,7 +3,6 @@
   Me chamo Guilherme, tenho 23 anos e estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia desde cedo. Cresci rodeado por jogos, redes sociais e sempre tive curiosidade em entender como tudo funciona por trás das telas.<br>
   Atualmente, estou estudando e trabalhando com as stacks JavaScript, TypeScript, React, Node.js, C#, Flutter e .NET, buscando evoluir cada vez mais como desenvolvedor Full Stack.
 </div>
-##
 <br>
 
 <div align="center">
