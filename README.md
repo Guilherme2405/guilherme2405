@@ -7,16 +7,16 @@
 
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2405&show_icons=true&theme=tokyonight" width="400" height="250" alt="GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2405&layout=compact&theme=tokyonight" width="305" height="250" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-guiga&show_icons=true&theme=tokyonight" width="400" height="250" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guiga&layout=compact&theme=tokyonight" width="305" height="250" alt="Top Langs"/>
   </div>
   
   <br>
   
   <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilherme2405/guilherme2405/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme2405/dev-guiga/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme2405/dev-guiga/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-guiga/dev-guiga/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
