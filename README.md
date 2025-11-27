@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme Cataneo!
 <div>
   Me chamo Guilherme, tenho 23 anos e estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia desde cedo. Cresci rodeado por jogos, redes sociais e sempre tive curiosidade em entender como tudo funciona por trás das telas.<br>
-  Atualmente, estou estudando e trabalhando com as stacks JavaScript, TypeScript, React, Node.js, C#, Flutter e .NET, buscando evoluir cada vez mais como desenvolvedor Full Stack.
+  Atualmente, estou estudando e trabalhando com as stacks como TypeScript, React, Node.js,Ruby on Rails. tenho leves conhecimentos com C#, .NET e  Flutter.
 </div>
 <br>
 
@@ -26,15 +26,17 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="40" alt="Ruby"/> 
+  <img src="https://cdn.simpleicons.org/rubyonrails?viewbox=auto&size=40/#D30001" />
+
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40" width="40"/>
+
+  <img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=40/#D30001" />
+
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   
 
 </p>
