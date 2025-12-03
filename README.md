@@ -23,23 +23,11 @@
   # 🚀 Tecnologias e Ferramentas
 
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="40" alt="Ruby"/> 
-  <img src="https://cdn.simpleicons.org/rubyonrails?viewbox=auto&size=40/#D30001" />
-
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40" width="40"/>
-
-  <img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=40/#D30001" />
+<div align="center">
 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,rails,html,css,docker)](https://skillicons.dev)
+</div>
 
 ## 📈 Contribuições
 
