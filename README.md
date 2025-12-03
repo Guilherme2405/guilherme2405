@@ -1,7 +1,8 @@
-# Olá, eu sou o Guilherme Cataneo!
+## Hello, I am Guilherme Cataneo!
+
 <div>
-  Me chamo Guilherme, tenho 23 anos e estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia desde cedo. Cresci rodeado por jogos, redes sociais e sempre tive curiosidade em entender como tudo funciona por trás das telas.<br>
-  Atualmente, estou estudando e trabalhando com as stacks como TypeScript, React, Node.js,Ruby on Rails. tenho leves conhecimentos com C#, .NET e  Flutter.
+<div>My name is Guilherme, also known as Guiga. I’ve always been close to technology and have always enjoyed understanding how things work.</div>  
+  <div>I currently work as a FullStack developer using TypeScript, React, Next.js, NestJS, and Ruby on Rails. I also have experience with Flutter, .NET, and PHP.</div>
 </div>
 <br>
 
@@ -20,7 +21,7 @@
   </picture>
 </div>
 
-  # 🚀 Tecnologias e Ferramentas
+  # 🚀 Technologies and Tools
 
 
 <div align="center">
@@ -29,14 +30,14 @@
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,rails,html,css,docker)](https://skillicons.dev)
 </div>
 
-## 📈 Contribuições
+## 📈 Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-guiga&theme=tokyonight&locale=pt_BR" width="820" height="250" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-guiga&theme=tokyonight&locale=en_us" width="820" height="250" alt="GitHub Streak"/>
 </div>
 
 
-## 🌐 Redes Sociais
+## 🌐 Social Media
 
 <div align="center">
 
@@ -45,4 +46,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecataneo02@gmail.com)
 
 </div>
-📬 **Entre em contato para colaborações, freelas ou oportunidades!**
+
+ 📬 **Get in touch for collaborations, freelance work, or opportunities!**
