@@ -11,7 +11,7 @@ Languages: TypeScript, React, Nextjs, NestS, RubyonRails
 FavouritesAnime: (Shingeki no kyojin, Samurai champloo, inuyasha).
 Pronouns: He-Him.
 Location: Brazil,Jaú.
-FavouriteSong: Coisas que nao apredi contigo - 2zDinizz.
+FavouriteSong: Coisas que nao aprendi contigo - 2zDinizz.
 Hobbies: watching Anime, Listening music, play basketball and video games.
 ```
 
