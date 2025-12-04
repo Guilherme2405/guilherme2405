@@ -38,7 +38,7 @@ Hobbies: watching Anime, Listening music, play basketball and video games.
     <!-- Coluna direita: Tools -->
     <td " valign="center">
       <h2 align="start">🛠️Tools</h2>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postgres" height="40"/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postgres" />
     </td>
   </tr>
 </table>
