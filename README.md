@@ -18,7 +18,7 @@ Hobbies: watching Anime, Listening music, play basketball and video games.
 
 <br>
 
-<div align="start">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dev-guiga&show_icons=true&theme=radical" width="400" height="250" alt="GitHub stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guiga&layout=compact&theme=tokyonight" width="305" height="250" alt="Top Langs"/>
   </div>
@@ -65,7 +65,7 @@ Hobbies: watching Anime, Listening music, play basketball and video games.
   </picture>
 </div>
 
-## 🌐  **Social Media**
+<h2 align="center"> 🌐  Social Media</h2>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ribeiro-cataneo-494219330/)
