@@ -1,9 +1,16 @@
 ## Hello, I am Guilherme Cataneo!
-
-<div>
-<div>My name is Guilherme, also known as Guiga. I’ve always been close to technology and have always enjoyed understanding how things work.</div>  
-  <div>I currently work as a FullStack developer using TypeScript, React, Next.js, NestJS, and Ruby on Rails. I also have experience with Flutter, .NET, and PHP.</div>
-</div>
+<table border="0" cellspacing="0">
+  <tr>
+    <td width="60%">
+      <h1>Hello, I am Guilherme Cataneo!</h1>
+      <p>My name is Guilherme, also known as Guiga. I’ve always been close to technology and have always enjoyed understanding how things work.</p>  
+      <p>I currently work as a FullStack developer using TypeScript, React, Next.js, NestJS, and Ruby on Rails. I also have experience with Flutter, .NET, and PHP.</p><br>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyd2UzNWx4NXhlb2VrbmtodXZlbXFlNGFnM2Y1ejdteHhrMm4yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="250" height="250">
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -13,19 +20,16 @@
   </div>
 
   <br>
-  
-
 </div>
 
- ## 🚀 **Technologies and Tools**
-
+ <h2 align="start"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies and Tools</h2>
 
 <div align="start">
   
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,rails,html,css,docker)](https://skillicons.dev)
 </div>
 
-## 📈 **Contributions**
+<h2 align="start"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-guiga&theme=tokyonight&locale=en_us" width="820" height="250" alt="GitHub Streak"/>
@@ -44,19 +48,12 @@
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-guiga/dev-guiga/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
- 
-
 
 ## 🌐  **Social Media**
 <div align="start">
 
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ribeiro-cataneo-494219330/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-guiga)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecataneo02@gmail.com)
-
-</div>
-
-
 
  📬 **Get in touch for collaborations, freelance work, or opportunities!**
