@@ -1,16 +1,20 @@
 ## Hello, I am Guilherme Cataneo!
-<table border="0" cellspacing="0">
-  <tr>
-    <td width="60%">
-      <h1>Hello, I am Guilherme Cataneo!</h1>
-      <p>My name is Guilherme, also known as Guiga. I’ve always been close to technology and have always enjoyed understanding how things work.</p>  
-      <p>I currently work as a FullStack developer using TypeScript, React, Next.js, NestJS, and Ruby on Rails. I also have experience with Flutter, .NET, and PHP.</p><br>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyd2UzNWx4NXhlb2VrbmtodXZlbXFlNGFnM2Y1ejdteHhrMm4yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="250" height="250">
-    </td>
-  </tr>
-</table>
+
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyd2UzNWx4NXhlb2VrbmtodXZlbXFlNGFnM2Y1ejdteHhrMm4yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="305px"/>
+
+```ruby
+My Profile
+-------------------------------
+Host: github.com/dev-guiga
+Username: dev-guiga
+Languages: TypeScript, React, Nextjs, NestS, RubyonRails
+FavouritesAnime: (Shingeki no kyojin, Samurai champloo, inuyasha).
+Pronouns: He-Him.
+Location: Brazil,Jaú.
+FavouriteSong: Coisas que nao apredi contigo - 2zDinizz.
+Hobbies: watching Anime, Listening music, play basketball and video games.
+```
+
 
 <br>
 
@@ -22,14 +26,26 @@
   <br>
 </div>
 
- <h2 align="start"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies and Tools</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-<div align="start">
-  
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,rails,html,css,docker)](https://skillicons.dev)
-</div>
+<table align="center" border="0" cellspacing="0">
+  <tr>
+    <!-- Coluna esquerda: Technologies -->
+    <td  valign="center">
+      <h2 align="start">🧩 Technologies</h2>
+      <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,rails,html,css" />
+    </td>
+    <!-- Coluna direita: Tools -->
+    <td " valign="center">
+      <h2 align="start">🛠️Tools</h2>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postgres" height="40"/>
+    </td>
+  </tr>
+</table>
 
-<h2 align="start"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
+
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-guiga&theme=tokyonight&locale=en_us" width="820" height="250" alt="GitHub Streak"/>
@@ -50,7 +66,7 @@
 </div>
 
 ## 🌐  **Social Media**
-<div align="start">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ribeiro-cataneo-494219330/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-guiga)
