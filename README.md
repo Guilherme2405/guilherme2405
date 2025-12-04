@@ -1,6 +1,6 @@
 ## Hello, I am Guilherme Cataneo!
 
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyd2UzNWx4NXhlb2VrbmtodXZlbXFlNGFnM2Y1ejdteHhrMm4yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="305px"/>
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyd2UzNWx4NXhlb2VrbmtodXZlbXFlNGFnM2Y1ejdteHhrMm4yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="150px"/>
 
 ```ruby
 My Profile
